@@ -9,7 +9,7 @@ This recommender system helps us to recommend movies on the basis of genre, cast
 ### Cloning 
 
 bash
-  git clone https://github.com/aasmigill/Movie-recommender-system.git
+  https://github.com/Viditnegi/Movie-Recommender-System.git
 
 
 
